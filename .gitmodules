@@ -4,3 +4,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:danielkennedy1/quanta-api.git
+[submodule "agent"]
+	path = agent
+	url = git@github.com:danielkennedy1/quanta-agent.git
