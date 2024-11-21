@@ -7,3 +7,6 @@
 [submodule "agent"]
 	path = agent
 	url = git@github.com:danielkennedy1/quanta-agent.git
+[submodule "onboard"]
+	path = onboard
+	url = git@github.com:danielkennedy1/quanta-onboard.git
